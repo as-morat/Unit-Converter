@@ -19,7 +19,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             UnitTheme {
-                PreviewUnitConverter()
+//                PreviewUnitConverter()
+                Screen()
             }
         }
     }
