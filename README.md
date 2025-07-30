@@ -1,27 +1,30 @@
-<img width="392" height="448" alt="image" src="https://github.com/user-attachments/assets/5bcce604-ee0a-4172-8d44-3d1b8a55d25b" /># Converter
+# Converter
 
 A simple and efficient Android Unit Converter application built with Jetpack Compose and Kotlin. The app provides accurate and real-time conversions across multiple unit categories in a user-friendly interface.
 
-![App Preview](https://github.com/user-attachments/assets/fd5e935e-71bf-4263-996e-57e94b650e40)
-<img width="392" height="448" alt="image" src="https://github.com/user-attachments/assets/654ff8e5-e86e-452f-a78e-32ac2150830f" />
+## App Preview
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd5e935e-71bf-4263-996e-57e94b650e40" width="220" height="220" style="border-radius: 15px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/654ff8e5-e86e-452f-a78e-32ac2150830f" width="220" height="220" style="border-radius: 15px; margin: 10px;" />
+</p>
 
 ---
 
 ## Features
 
-- Clean and responsive UI using Jetpack Compose
-- Real-time unit conversion
-- Multiple categories like Meter, Feet etc.
-- Lightweight and fast
+- Clean and responsive UI using Jetpack Compose  
+- Real-time unit conversion  
+- Multiple categories like Meter, Feet, etc.  
+- Lightweight and fast  
 
 ---
 
 ## Technologies Used
 
-- Kotlin
-- Jetpack Compose
-- Android Studio
+- Kotlin  
+- Jetpack Compose  
+- Android Studio  
 
 ---
 
